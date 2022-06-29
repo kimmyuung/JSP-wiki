@@ -1,16 +1,14 @@
 # JSP-wiki
 
-# ezengroup4
-학원 4조 JSP 팀플
-
+# 데이터베이스 설계
 DataBase
 ![Class Diagram](https://user-images.githubusercontent.com/100548259/170656346-dd09a98a-86e5-4dbc-8e04-fdf7834fe2f4.png)
 
-
+# 컨트롤러 설계
 Controller
 ![controller](https://user-images.githubusercontent.com/78428879/169783076-ced03d2c-311c-40d3-89e0-1a15fe20576a.png)
 
-
+# 화면 설계
 Front
 main.jsp
 ![ezenteamproject4  main jsp](https://user-images.githubusercontent.com/78428879/169983653-c5846434-c2f2-4345-b132-d038e0e32b2b.jpg)
