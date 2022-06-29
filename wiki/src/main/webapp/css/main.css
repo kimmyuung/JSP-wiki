@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'GothicA1-Light';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2205@1.0/GothicA1-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+* {
+	font-family: 'GothicA1-Light';
+}
+
+
+
+.headerImg{width: 30px; height: 30px;}
+
+a{text-decoration: none; color: black;}
+
+#debateinfo{border: solid 1px black; border-radius:6px; }
+
+#stop{width: 150px; height:150px;}
+
+#debatecontent{border: solid 1px #434234; border-radius: 6px; }
+
+#mainlogo{height: 50px; width: 100%};
+
+ul{
+	list-style-type: none;
+}
